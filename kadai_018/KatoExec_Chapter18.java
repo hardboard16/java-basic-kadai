@@ -11,7 +11,7 @@ public class KatoExec_Chapter18 {
 		
 		//setGivenNameメソッドを実行する
 		Taro.setGivenName("太郎");
-		Ichiro.setGivemName("一郎");
+		Ichiro.setGivenName("一郎");
 		Hanako.setGivenName("花子");
 		
 		//execIntroduceメソッドを実行する
